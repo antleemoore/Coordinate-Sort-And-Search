@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-/*COP 3502C Final Term Assignment 1
-This Program is Written by: Anthony Moore*/
 /*
   The first integer that determines the amount of coordinates
-  cannot be followed by a space or it produces errors in Eustis.
+  cannot be followed by a space
 */
 typedef struct coord{
     int x;
